@@ -12,9 +12,9 @@ This repository uses pytorch, fastai and albumentations to train a neural networ
 * RGB images of organoid expressing GFP. 
 The pipeline extracts (attempts) the maximum length of the 3D object from the 2D images and estimates the amount of (bright) GFP signal within. 
 
-<p align="center">
-  ![alt-text](https://github.com/tiagu/gastrunet/blob/main/example_GFP/demo.gif)
-</p>
+<div style="text-align:center">
+    ![alt-text](https://github.com/tiagu/gastrunet/blob/main/example_GFP/demo.gif)
+</div>
 
 Legend:
 <font color="magenta"> Magenta outline </font>- main organoid mask selected from the image. 
