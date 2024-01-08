@@ -18,14 +18,10 @@ The pipeline extracts (attempts) the maximum length of the 3D object from the 2D
 
 Legend:
 
-$${\color{red}Red}$$
-<code style="color : magenta"> Magenta outline</code> - main organoid mask selected from the image. 
-
-<code style="color : red">Red line</code> - main filament path used to calculate maximum length.
-
-<code style="color : green"> Green outlines</code> - detected bright GFP signals.
-
-<code style="color : magenta"> Magenta dots</code> - end-points extended to give a more realistic max length.
+$${\color{magenta}Magenta outline}$$ - main organoid mask selected from the image. 
+$${\color{red}Red line}$$ - main filament path used to calculate maximum length.
+$${\color{green}Green outlines}$$ - detected bright GFP signals.
+$${\color{magenta}Magenta dots}$$ - end-points extended to give a more realistic max length.
 
 
 
