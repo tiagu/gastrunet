@@ -18,7 +18,7 @@ The pipeline extracts (attempts) the maximum length of the 3D object from the 2D
 
 Legend:
 
-<span style="color:blue;">This is blue text.</span>
+<code style="color : name_color">text</code>
 
 <span style="color:darkmagenta;"> Magenta outline </span>- main organoid mask selected from the image. 
 <font color="red">Red line</font>- main filament path used to calculate maximum length.
