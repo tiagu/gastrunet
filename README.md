@@ -24,5 +24,7 @@ ${\color{green}Green \space outlines}$ - detected bright GFP signals.
 ${\color{magenta}Magenta \space dots}$ - end-points extended to give a more realistic max length.
 
 
+## Usage:
 
-
+If your images look similar, feel free to use our trained models at:
+https://zenodo.org/records/12684780
