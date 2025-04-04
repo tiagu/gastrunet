@@ -3,6 +3,8 @@
 # GastrUnet
 Gastrunet is a pipeline for fast semantic segmentation of microscopy images of 3D cell cultures for the purpose of analysing their overall shape and growth. 
 
+If you use this repository in your research, please cite:
+Rito, T. *et al.* Timely TGFβ signalling inhibition induces notochord. Nature 637, 673–682 (2025). DOI: [10.1038/s41586-024-08332-w](https://doi.org/10.1038/s41586-024-08332-w).
 
 ## Overview:
 This repository uses pytorch, fastai and albumentations to train a neural network with a small number of manually-segmented images as ground-truth. I also include a notebook with several tools that can be used to analyse the masks obtained. These were originally performed on notoroids (see Rito et al. 2023).
